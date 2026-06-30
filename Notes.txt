@@ -4,6 +4,6 @@ https://sass-lang.com/guide/
 
 
 
-sass styles.scss styles.css
+sass Base_cw.scss Base_CW.css
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
