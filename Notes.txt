@@ -1,0 +1,9 @@
+https://itnext.io/how-i-develop-css-and-javascript-2x-faster-in-outsystems-b8b9ebc8675d
+
+https://sass-lang.com/guide/
+
+
+
+sass styles.scss styles.css
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
